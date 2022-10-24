@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p {
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+#user-show{
+    background-color: #27272A;
+
+}
+.buttonPlay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.buttonPlay-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin: 0 10px;
+    padding: 10px 17px;
+    background-color: #27272A;
+    
+}
+.buttonPlay a{
+    font-size: 30px;
+    color: #6D28D9;
+}

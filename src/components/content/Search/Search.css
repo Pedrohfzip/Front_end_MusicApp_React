@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mainSearch{
+    height: 8vw;
+    display: flex;
+    padding-left: 5vw;
+    align-items: center;
+    padding: 0;
+}
+.mainSearch form{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+}
+.mainSearch form button{
+    decoration: none;
+    border: none;
+    height: 40%;
+    padding: 0 20px;
+    background-color: #3F3F46;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+}
+#input{
+    decoration: none;
+    border: none;
+    height: 40%;
+    padding-right: 65%;
+    background-color: #3F3F46;
+    border-radius: 12px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+#input:focus{
+    box-shadow: 0 0 0 0;
+    outline: 0;
+}

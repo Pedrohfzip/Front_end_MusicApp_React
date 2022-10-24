@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: #FFFFFF;
+    font-size: 78px;
+    padding: 10px 0 0 45px;
+}
+.playMusic{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.container{
+    display: flex;
+    align-items:center
+}
+.container p{
+    padding-left: 18px;
+}
+#userMusic{
+    background-color: blue;
+}
+.play{
+    padding-right: 50px;
+}
+
